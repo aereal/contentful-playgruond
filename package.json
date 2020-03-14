@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "codegen": "contentful-typescript-codegen --output @types/generated/contentful.d.ts"
+    "codegen": "contentful-typescript-codegen --output src/@types/@aereal/portfolio.d.ts"
   },
   "prettier": {
     "trailingComma": "es5"
