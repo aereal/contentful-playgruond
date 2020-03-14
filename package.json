@@ -4,5 +4,9 @@
   "main": "index.js",
   "author": "aereal <aereal@aereal.org>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "contentful-typescript-codegen": "^3.0.0",
+    "prettier": "^1.19.1"
+  }
 }
