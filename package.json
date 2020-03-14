@@ -5,6 +5,9 @@
   "author": "aereal <aereal@aereal.org>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "codegen": "contentful-typescript-codegen --output @types/generated/contentful.d.ts"
+  },
   "dependencies": {
     "contentful-management": "^5.13.0",
     "contentful-typescript-codegen": "^3.0.0",
